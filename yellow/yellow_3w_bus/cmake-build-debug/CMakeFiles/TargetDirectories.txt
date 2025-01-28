@@ -1,0 +1,3 @@
+/Users/alexeevdm/repo/coursera_cpp/yellow_3w_bus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexeevdm/repo/coursera_cpp/yellow_3w_bus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexeevdm/repo/coursera_cpp/yellow_3w_bus/cmake-build-debug/CMakeFiles/yellow_3w_bus.dir

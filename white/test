@@ -1,0 +1,62 @@
+Add 0-1-2 event1
+Add 1-2-3 event2
+Find 0-1-2
+
+Del 0-1-2
+Print
+Del 1-2-3 event2
+Del 1-2-3 event2
+
+
+
+event1
+Deleted 1 events
+0001-02-03 event2
+Deleted successfully
+Event not found
+
+
+----
+Del 1-1-1
+Del 1-1-1 e
+Add 1-2-1 a
+Add 1-1-2 b
+Wrong
+Print
+
+-----
+Add 1-1-1 event
+Del 1-1-1 event
+Print
+
+-----
+Add 1-1-1 a
+Add 1-1-1 b
+Find 1-1-1
+Print
+
+//вывод
+a
+b
+1-1-1 a
+1-1-1 b
+
+------
+Add 1-1- event
+Add 1-1-1 event
+Print
+
+-------
+//Вот тут пробел после даты // это валидная дата
+
+Del 1-1-1
+Add 1-1-+1 e
+BadCommand
+Print
+
+
+
+____________________
+Add
+\\ wrong
+Add +2021-+11-+11 a
